@@ -72,6 +72,21 @@ Se identificó que **un método de pago es claramente dominante** sobre los dem�
 
 ---
 
+# 📊 Análisis Estadístico de los Datos de Taxi
+
+Este informe presenta un análisis estadístico de los datos de viajes en taxi en Nueva York. Se incluyen medidas de **tendencia central** y **dispersión** para entender mejor el comportamiento de las variables clave.
+
+## 📈 Interpretación de los Resultados
+
+- **La tarifa promedio** es de aproximadamente **$14.75**, con una mediana de **$10.00**, lo que indica que la mayoría de los viajes tienen tarifas cercanas a este valor.
+- **El tiempo promedio de viaje** es de aproximadamente **15.16 minutos**, con algunos viajes que duran más de **10128.65 minutos**.
+- **La distancia promedio de un viaje** es de **2.72 millas**, con algunas excepciones que pueden superar las **99.90 millas**.
+- **La velocidad promedio de los taxis** muestra una gran variabilidad, con un promedio de **14.64 mph**.
+- **El valor total promedio de un viaje** es de **$22.02**, incluyendo tarifas adicionales como propinas y recargos.
+
+Estos datos nos ayudan a entender mejor la movilidad urbana y los patrones de uso de los taxis en la ciudad.
+
+
 ## 4️⃣ Conclusiones y Recomendaciones
 
 📊 **Resumen de los hallazgos clave**:
